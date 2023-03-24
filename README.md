@@ -15,7 +15,7 @@
 ## Вариант 2 
 Касаниями вправо-влево управлять прямоугольником-«ракеткой»,
 отбивать движущийся шарик.
-![222](https://user-images.githubusercontent.com/75760235/213184144-40588b9e-2dce-4c12-bdab-1b0b3cf566cd.jpg)
+
 ## Решение
 #### Юнит тест на корректность работы приложения: ipr1/app/src/androidTest/java/com/eugene/ping/ExampleInstrumentedTest.kt
 
